@@ -1,4 +1,5 @@
 {
-    "name": "crm-backend",
+    "name": "crm/crm-backend",
+    "description": "CRM PHP backend for Railway deployment",
     "require": {}
 }
